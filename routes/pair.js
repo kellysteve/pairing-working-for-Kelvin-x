@@ -127,35 +127,35 @@ router.get('/', async (req, res) => {
                             try {
                                 Sess = await sendButtons(Casper, Casper.user.id, {
             title: '',
-            text: 'CASPER-XD-ULTRA;' + b64data,
-            footer: `> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄᴀꜱᴘᴇʀ ᴛᴇᴄʜ*`,
+            text: 'KELVIN-X;' + b64data,
+            footer: `> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴋᴇʟᴠɪɴ ᴛᴇᴄʜ*`,
             buttons: [
                 { 
                     name: 'cta_copy', 
                     buttonParamsJson: JSON.stringify({ 
-                        display_text: 'Copy Session', 
-                        copy_code: 'CASPER-XD-ULTRA;' + b64data 
+                        display_text: 'Copy Session bruh', 
+                        copy_code: 'KELVIN-X;' + b64data 
                     }) 
                 },
                 {
                     name: 'cta_url',
                     buttonParamsJson: JSON.stringify({
                         display_text: 'Visit Bot Repo',
-                        url: 'https://github.com/Casper-Tech-ke/CASPER-XD-ULTRA'
+                        url: 'https://github.com/Kellysteve/KELVIN-X'
                     })
                 },
                 {
                     name: 'cta_url',
                     buttonParamsJson: JSON.stringify({
                         display_text: 'Join WaChannel',
-                        url: 'https://whatsapp.com/channel/0029VbCK8vlKwqSSkFkC1l2k'
+                        url: 'https://whatsapp.com/channel/0029Vb6zO8SFHWq2SSLf4y3S'
                     })
                 },
                 {
                     name: 'cta_url',
                     buttonParamsJson: JSON.stringify({
                         display_text: 'Join WaChannel 2',
-                        url: 'https://whatsapp.com/channel/0029Vb6XJQQHrDZi1RzKu90t'
+                        url: 'https://whatsapp.com/channel/0029VbC20KS2ZjCmxyZ5Rp1M'
                     })
                 }
             ]

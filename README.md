@@ -7,41 +7,41 @@
       </linearGradient>
     </defs>
     <rect rx="20" ry="20" width="400" height="120" fill="none" stroke="url(#grad)" stroke-width="4"/>
-    <text x="200" y="78" text-anchor="middle" font-family="Arial,sans-serif" font-weight="900" font-size="52" fill="url(#grad)">CASPER</text>
+    <text x="200" y="78" text-anchor="middle" font-family="Arial,sans-serif" font-weight="900" font-size="52" fill="url(#grad)">KELVIN</text>
   </svg>
 </p>
 
-<h1 align="center">CASPER XD ULTRA - Pairing</h1>
+<h1 align="center">KELVIN X - Pairing</h1>
 
 <p align="center">
-  <b>Session Generator for CASPER XD ULTRA WhatsApp Bot</b><br>
-  A web-based pairing tool that generates session IDs for the <a href="https://github.com/Casper-Tech-ke/CASPER-XD-ULTRA">CASPER XD ULTRA</a> WhatsApp bot using Pair Code and QR Code methods.
+  <b>Session Generator for KELVIN-X WhatsApp Bot</b><br>
+  A web-based pairing tool that generates session IDs for the <a href="https://github.com/kellysteve/KELVIN-X">CASPER XD ULTRA</a> WhatsApp bot using Pair Code and QR Code methods.
 </p>
 
 <p align="center">
-  <a href="https://github.com/Casper-Tech-ke/CASPER-XD-ULTRA/fork">
+  <a href="https://github.com/kellysteve/KELVIN-X/fork">
     <img src="https://img.shields.io/badge/-FORK%20REPO-7b2cbf?style=for-the-badge&logo=github&logoColor=white" alt="Fork Repo"/>
   </a>
-  <a href="https://github.com/Casper-Tech-ke/CASPER-XD-ULTRA/stargazers">
+  <a href="https://github.com/Kellysteve/KELVIN-X/stargazers">
     <img src="https://img.shields.io/badge/-STAR%20REPO-ff9e00?style=for-the-badge&logo=github&logoColor=white" alt="Star Repo"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://t.me/casper_tech_ke">
-    <img src="https://img.shields.io/badge/Telegram-Casper%20Tech-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
+  <a href="https://t.me/KelvinUniverse">
+    <img src="https://img.shields.io/badge/Telegram-Kelvin%20Tech-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://whatsapp.com/channel/0029VbCK8vlKwqSSkFkC1l2k">
+  <a href="https://whatsapp.com/channel/0029Vb6zO8SFHWq2SSLf4y3S">
     <img src="https://img.shields.io/badge/WhatsApp-Channel%201-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp Channel 1"/>
   </a>
-  <a href="https://whatsapp.com/channel/0029Vb6XJQQHrDZi1RzKu90t">
+  <a href="https://whatsapp.com/channel/0029VbC20KS2ZjCmxyZ5Rp1M">
     <img src="https://img.shields.io/badge/WhatsApp-Channel%202-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp Channel 2"/>
   </a>
-  <a href="https://github.com/Casper-Tech-ke">
-    <img src="https://img.shields.io/badge/GitHub-Casper--Tech--ke-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/Kellysteve">
+    <img src="https://img.shields.io/badge/GitHub-Kellysteve-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://xcasper.space">
-    <img src="https://img.shields.io/badge/Other%20Projects-xcasper.space-ff9e00?style=flat-square&logo=google-chrome&logoColor=white" alt="Other Projects"/>
+  <a href="https://kelvin.name.ng">
+    <img src="https://img.shields.io/badge/Other%20Projects-kelvin.name.ng-ff9e00?style=flat-square&logo=google-chrome&logoColor=white" alt="Other Projects"/>
   </a>
 </p>
 
@@ -49,13 +49,13 @@
 
 ## What is This?
 
-This is the **Pairing** tool for the [CASPER XD ULTRA](https://github.com/Casper-Tech-ke/CASPER-XD-ULTRA) WhatsApp bot. It generates session IDs that you need to connect the bot to your WhatsApp account.
+This is the **Pairing** tool for the [KELVIN X](https://github.com/kellysteve/KELVIN-X) WhatsApp bot. It generates session IDs that you need to connect the bot to your WhatsApp account.
 
-This is **not** the bot itself. To get the bot, visit the [CASPER XD ULTRA repository](https://github.com/Casper-Tech-ke/CASPER-XD-ULTRA).
+This is **not** the bot itself. To get the bot, visit the [KELVIN X repository](https://github.com/KELLYSTEVE/KELVIN-X).
 
-> **Source Code Provider:** This project is built upon source code originally provided by [Gifted Tech](https://github.com/mauricegift).
+> **Source Code Provider:** This project is built upon source code originally provided by [Casper Tech](https://github.com/Casper-Tech-ke).
 > 
-> **Developed & Completed by:** [CASPER TECH KENYA DEVELOPERS](https://github.com/Casper-Tech-ke)
+> **Developed & Completed by:** [KELVIN TECH NIGERIA DEVELOPERS](https://github.com/kellysteve)
 
 ---
 
@@ -80,7 +80,7 @@ This is **not** the bot itself. To get the bot, visit the [CASPER XD ULTRA repos
 2. :point_right: Choose **Pair Code** or **QR Code** method
 3. :phone: Enter your phone number (for pair code) or scan the QR code
 4. :incoming_envelope: A session ID will be sent to your WhatsApp
-5. :white_check_mark: Copy the session ID and use it in the [CASPER XD ULTRA](https://github.com/Casper-Tech-ke/CASPER-XD-ULTRA) bot
+5. :white_check_mark: Copy the session ID and use it in the [KELVIN-X](https://github.com/Kellysteve/KELVIN-X) bot
 
 ---
 
@@ -89,10 +89,10 @@ This is **not** the bot itself. To get the bot, visit the [CASPER XD ULTRA repos
 Sessions generated by this pairing tool start with the prefix:
 
 ```
-CASPER-XD-ULTRA;<session_data>
+KELVIN-X;<session_data>
 ```
 
-Use this session ID when configuring the [CASPER XD ULTRA](https://github.com/Casper-Tech-ke/CASPER-XD-ULTRA) bot.
+Use this session ID when configuring the [KELVIN X](https://github.com/kellysteve/KELVIN-X) bot.
 
 ---
 
@@ -114,7 +114,7 @@ The easiest way to deploy. No server setup required.
 
 **Step 2:** Click the button below to import the repo:
 
-<a href="https://replit.com/github/Casper-Tech-ke/CASPER-XD-ULTRA">
+<a href="https://replit.com/github/Kellysteve/KELVIN-X">
   <img src="https://img.shields.io/badge/-IMPORT%20TO%20REPLIT-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Import to Replit"/>
 </a>
 

@@ -127,7 +127,7 @@ router.get('/', async (req, res) => {
                             try {
                                 Sess = await sendButtons(Casper, Casper.user.id, {
             title: '',
-            text: 'KELVIN-X;' + b64data,
+            text: 'KELVIN-X:~' + b64data,
             footer: `> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴋᴇʟᴠɪɴ ᴛᴇᴄʜ*`,
             buttons: [
                 { 
